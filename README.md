@@ -86,8 +86,6 @@ The `generate_caption` function:
 ### Example:
 ```python
 generate_caption()
-generate_caption()
-generate_caption()
 ```
 
 ---
